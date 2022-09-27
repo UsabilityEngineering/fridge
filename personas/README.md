@@ -44,6 +44,8 @@ Have a menu with a variety of new, tasty dishes
 
 **Gym Rat Bob**
 
+![alt text](/personas/AdobeStock_323876440.jpeg)
+
 Bob is a 21 year old college student in Chico, California. 
 
 
