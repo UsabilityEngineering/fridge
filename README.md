@@ -6,7 +6,7 @@
 
 ## UX Team Members
 
-* **[Karandeep](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Karandeep](https://usabilityengineering.github.io/ux-portfolio-ksdhillon1/)** - !!!List of Person A's primary contributions!!!
 * **[Tamanna Haider](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
