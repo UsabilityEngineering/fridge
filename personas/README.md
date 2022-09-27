@@ -23,6 +23,10 @@ Only buy what is needed to avoid being wasteful
 
 **Admin Angie**
 
+
+
+![alt text](/personas/AdobeStock_425210730.jpeg)
+
 Angie is an administrator for a care home in Hayward, California.
 
 She worked as a certified nursing assistant for 5 years and then got her certification to run her own care home for the elderly at age 31. 
