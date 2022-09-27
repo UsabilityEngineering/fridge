@@ -3,7 +3,7 @@
 
 **Chef Lily**
 
-![alt text](/image.png)
+![alt text](/personas/image.png)
 
 Lily is a 46 year old mom in Charlotte, North Carolina. 
 
