@@ -3,6 +3,8 @@
 
 **Chef Lily**
 
+![alt text](/image.png)
+
 Lily is a 46 year old mom in Charlotte, North Carolina. 
 
 She works as a manager at Dillard’s in the jewelry department. Lily has taken some college courses but does not have any degrees.
