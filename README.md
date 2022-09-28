@@ -1,8 +1,7 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
 # FRIDGE
 
-Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is help users waste less food but tracking all kinds of data on their grocery items. Fridge application tracks expirations dates, quantity of item, price for budgeting, and also presents different kinds of recipes. **add to this**
+Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is that most people forget what grocery items they have and what recipes they can make with those items. Fridge application plans to help with this problem and help users waste less food by tracking all kinds of data on their grocery items. Fridge application tracks expirations dates, quantity of each item, price for budgeting, and also presents different kinds of recipes. 
 
 ## UX Team Members
 
