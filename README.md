@@ -1,11 +1,11 @@
 
 # FRIDGE
 
-Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is that most people forget what grocery items they have and what recipes they can make with those items to ultimately save them time each day figuring what meals to cook. Fridge application plans to help with this problem and help users waste less food by tracking all kinds of data on their grocery items. Fridge application tracks expiration dates, quantity of each item, price for budgeting, and also presents different kinds of recipes. U
+Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is that most people forget what grocery items they have and what recipes they can make with those items. Ultimately we want to help save them time each day figuring what meals to cook and what grocery items are about to expire soon. Fridge application plans to help with this problem and help users waste less food by tracking all kinds of data on their grocery items. Fridge application tracks expiration dates, quantity of each item, price for budgeting, and also presents different kinds of recipes. U
 
 ## UX Team Members
 
-* **[Karandeep](https://usabilityengineering.github.io/ux-portfolio-ksdhillon1/)** - !!!List of Person A's primary contributions!!!
+* **[Karandeep](https://usabilityengineering.github.io/ux-portfolio-ksdhillon1/)** - *complete the whole personas and scenrios page, *added brief intro about our project!!!List of Person A's primary contributions!!!
 * **[Tamanna Haider](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
