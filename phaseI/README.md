@@ -4,4 +4,4 @@
 Karandeep Dhillon and Tamanna Haider 
 Team fridge
 
-Some methods we used were ....
+Some methods we used were competitive analysis and heuristic evaluation. 
