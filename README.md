@@ -6,8 +6,8 @@ Our project is called Fridge and it allows for users to track grocery items alon
 ## UX Team Members
 
 * **[Karandeep](https://usabilityengineering.github.io/ux-portfolio-ksdhillon1/)** - 
-  * complete the whole personas and scenrios page
-  * added brief intro about our project
+  * added the brief introduction and problem statement about our project
+  * completed the whole personas and scenrios page
 * **[Tamanna Haider](https://usabilityengineering.github.io/ux-portfolio-tamannahaider/)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
