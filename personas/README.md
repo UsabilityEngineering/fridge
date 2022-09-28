@@ -16,9 +16,9 @@ Lily spends her weekends either covering other people’s shifts or taking her k
 Although Lily’s family seems to be in a routine, they love to try new things on a budget. Sophia has her heart set on going out of state for college in a couple of years.
 
 Goals:
-Limit wasted money so she can avoid working overtime
-Budget how much is spent on groceries monthly
-Only buy what is needed to avoid being wasteful
+* Limit wasted money so she can avoid working overtime
+* Budget how much is spent on groceries monthly
+* Only buy what is needed to avoid being wasteful
 
 
 **Admin Angie**
@@ -36,9 +36,9 @@ Angie got her entire care home set up, furnished, and licensed. Before she knew 
 Angie likes to spend her free time playing with her dogs and traveling with her friends. She goes to music festivals, broadway shows, monuments, and everything in between.
 
 Goals:
-Make her business self-reliant
-Stay in compliance with state food regulations to avoid citation during surprise inspections
-Have a menu with a variety of new, tasty dishes
+* Make her business self-reliant
+* Stay in compliance with state food regulations to avoid citation during surprise inspections
+* Have a menu with a variety of new, tasty dishes
 
 
 
@@ -54,9 +54,9 @@ He lives in an apartment by himself and goes to the gym six times a week. He kee
 Over the weekends, Bob plays basketball with his friends. He doesn’t really do much cardio so he tries to make up his cardio by playing basketball. He also completes his homework for his business classes. He is a senior and does not want to have to stay for another semester. He is excited to graduate and make money. 
 
 Goals:
-Discover meals to make
-Keep track of food items
-Make sure none of the items are expiring soon
+* Discover meals to make
+* Keep track of food items
+* Make sure none of the items are expiring soon
 
 
 
