@@ -1,7 +1,7 @@
 
 # FRIDGE
 
-Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is that most people forget what grocery items they have and what recipes they can make with those items. Ultimately we want to help save them time each day figuring what meals to cook and what grocery items are about to expire soon. Fridge application plans to help with this problem and help users waste less food by tracking all kinds of data on their grocery items. Fridge application tracks expiration dates, quantity of each item, price for budgeting, and also presents different kinds of recipes. U
+Our project is called Fridge and it allows for users to track grocery items along with be presented with recipes. The problem we are trying to solve is that most people forget what grocery items they have and what recipes they can make with those items. Ultimately we want to help save them time from figuring what meals to cook and what grocery items are about to expire soon. Fridge application plans to help with this problem and help users waste less food by tracking all kinds of data on their grocery items. Fridge application tracks expiration dates, quantity of each item, price for budgeting, and also presents different kinds of recipes. 
 
 ## UX Team Members
 
