@@ -18,11 +18,12 @@ Personas are realistic descriptions of a certain user of a product. Personas pro
 
   **Hueristic Evalution:**
 *   Improvements to be made on user control and freedom since certain parts are forced to be completed 
-*   Application had too many things going on each tab/page 
+*   Application has too many things going on each tab/page 
 *   To add to above point, there are a lot of different tasks crammed into a single tab/page, could be separated into different pages 
 *   Application is not exactly minimal in design 
-*   No real documentation of the app, but has helpful popups to complete tasks and a tour of the app when first opening the app was helpful
-*   great error prevention, error recognition and error recovery, 
+*   Application does follow a general theme and is slightly aesthetically pleasing
+*   No real documentation of the app, but has really helpful pop-ups to complete tasks and a tour of the app when first opening the app was helpful
+*   Gives options to connect with a number of stores but not all stores in the given options have the ability to connect 
 
   **Personas and Scenarios:**
 *   blah blah
