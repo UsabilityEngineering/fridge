@@ -3,7 +3,6 @@
 
 **Chef Lily**
 <img src="AdobeStock_222106228.jpeg" alt="lilyimage">
-![alt text](/personas/AdobeStock_222106228.jpeg)
 
 Lily is a 46 year old mom in Charlotte, North Carolina. 
 
@@ -25,7 +24,7 @@ Goals:
 
 
 
-![alt text](/personas/AdobeStock_425210730.jpeg)
+![alt text](AdobeStock_425210730.jpeg)
 
 Angie is an administrator for a care home in Hayward, California.
 
