@@ -14,7 +14,11 @@ Personas are realistic descriptions of a certain user of a product. Personas pro
 
 # Findings
   **Competitve Analysis:**
-*   blah blah
+*   There are two primary competitors and both are mobile apps, does not seem to have a primary web application competitor
+*   Competitors are using a monthly subscription as the main source of revenue with also ad pop-ups for the free accounts
+*   Competitors restrict certain access and limit the usage of certain tasks on free accounts as a way to encourage users to buy the subscription
+*   Discovered a feature to plan the meals for the week as a journal entry to be something we can improve on 
+*   Food items in the pantry seem to have no caloric or ingredient information, items only have an expiration date and quantity as the only information 
 
   **Hueristic Evalution:**
 *   Improvements to be made on user control and freedom since certain parts are forced to be completed 
@@ -22,6 +26,7 @@ Personas are realistic descriptions of a certain user of a product. Personas pro
 *   To add to above point, there are a lot of different tasks crammed into a single tab/page, could be separated into different pages 
 *   Application is not exactly minimal in design 
 *   Application does follow a general theme and is slightly aesthetically pleasing
+*   Application has great error prevention, error recognition, and erorr recovery
 *   No real documentation of the app, but has really helpful pop-ups to complete tasks and a tour of the app when first opening the app was helpful
 *   Gives options to connect with a number of stores but not all stores in the given options have the ability to connect 
 
