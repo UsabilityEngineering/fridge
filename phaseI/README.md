@@ -44,4 +44,5 @@ Personas are realistic descriptions of a certain user of a product. Personas pro
 # Caveats
   Our competitors are on the mobile platform while we plan to create our product on a web platform. Since people interact differently based on the platform they are on, b
   Our competitive analysis was based on our impressions and experience of the product. Customers/Users of the product most likely would concluded different weaknesses and strengths than the ones we have found. Our limited knowledge and use of the product could also lead to 
+  A heuristic evaluation is only as valuable as the people who do the evaluation and my team are not exactly experts in usability and our business product since none of us have used our competitors product extensively. 
   Our personas and scenarios did not involve much research and data gathering. They were primary created by our creativity and imagination so we can not rely heavily on our insights from personas and scenarios since they have a high probability of being inaccurate and even completely wrong. 
