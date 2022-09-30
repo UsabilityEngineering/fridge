@@ -22,9 +22,7 @@ Goals:
 
 **Admin Angie**
 
-
-
-![alt text](AdobeStock_425210730.jpeg)
+<img src="AdobeStock_425210730.jpeg" alt="angieimage">
 
 Angie is an administrator for a care home in Hayward, California.
 
@@ -42,8 +40,8 @@ Goals:
 
 
 **Gym Rat Bob**
+<img src="bob.png" alt="bobimage">
 
-![alt text](bob.png)
 
 Bob is a 21 year old college student in Chico, California. 
 
