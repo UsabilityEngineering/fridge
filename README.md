@@ -7,14 +7,14 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 * **[Karandeep](https://usabilityengineering.github.io/ux-portfolio-ksdhillon1/)** - 
   * added the brief introduction and problem statement about our project
-  * uploaded and contributed to the whole personas and scenrios page
-  * Personas and scenorios
-  * Competitve analysis and hueristic evaluation
+  * uploaded and contributed to the whole personas and scenarios page
+  * Personas and scenarios
+  * Competitive analysis and heuristic evaluation
   * Report
 * **[Tamanna Haider](https://usabilityengineering.github.io/ux-portfolio-tamannahaider/)** - 
   * Sketches and diagrams
   * Personas and scenorios
-  * Competitve analysis and hueristic evaluation
+  * Competitive analysis and heuristic evaluation
   * Report
 
 # User-Centered Design Artifacts
