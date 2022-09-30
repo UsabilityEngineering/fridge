@@ -40,6 +40,8 @@ Goals:
 
 
 **Gym Rat Bob**
+
+
 <img src="bob.png" alt="bobimage">
 
 
