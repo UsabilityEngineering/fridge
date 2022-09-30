@@ -13,13 +13,13 @@ Heuristic evaluation is also mainly an assessment, but it involves measuring the
 Personas are realistic descriptions of a certain user of a product. Personas provide insight into understanding our user or typical users and help make a product that would be most effective for them. Scenarios describe a particular goal or task a specific user is wanting to accomplish. Scenarios provide insight into how and why a certain user or users would go about completing their goals/tasks using our product. 
 
 # Findings
-  ** Competitve Analysis: **
+  **Competitve Analysis:**
 *   blah blah
 
-  ** Hueristic Evalution:**
+  **Hueristic Evalution:**
 *   blah blah
 
-  ** Personas and Scenarios: **
+  **Personas and Scenarios:**
 *   blah blah
       
 
