@@ -1,3 +1,2 @@
 # Sketches
-FridgeSketches.pdf
 
