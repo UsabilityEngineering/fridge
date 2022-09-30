@@ -1,3 +1,3 @@
 # Sketches
 
-![alt text](/personas/FridgeSketches.jpeg)
+![alt text](/sketches/FridgeSketch.jpeg)
