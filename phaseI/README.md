@@ -31,8 +31,11 @@ Personas are realistic descriptions of a certain user of a product. Personas pro
 *   Gives options to connect with a number of stores but not all stores in the given options have the ability to connect 
 
   **Personas and Scenarios:**
-*   blah blah
-      
+*   Needs an effective way to budget and track expenses
+*   Needs short recipes 
+*   Food items need to have caloric and ingredient information
+*   Needs recipes based on food items along with different type of dishes and recipe categories
+*   Needs to indicate when a certain food item is about to expire
 
 
 # Conclusions
