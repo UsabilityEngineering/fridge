@@ -28,6 +28,7 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 **Executive Summary**
 
+* Competitive analysis of competitive products allowed us to discover that **information on each food item is limited to only expiration date and quantity**, we can allow for each food item to store much more information such as calories and ingredients. We also found that **Free accounts are heavily restricted in what can be accomplished** 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
