@@ -43,7 +43,7 @@ Goals:
 
 **Gym Rat Bob**
 
-![alt text](/personas/bob.png)
+![alt text](bob.png)
 
 Bob is a 21 year old college student in Chico, California. 
 
