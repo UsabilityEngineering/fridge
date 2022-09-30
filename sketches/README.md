@@ -1,8 +1,8 @@
 # Sketches
 
-![alt text](/sketches/FridgeDiagram.jpeg)
+![alt text](FridgeDiagram.jpeg)
 
 
 
 
-![alt text](/sketches/FridgeSketch.jpeg)
+![alt text](FridgeSketch.jpeg)
