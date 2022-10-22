@@ -10,11 +10,13 @@ Our project is called Fridge and it allows for users to track grocery items alon
   * uploaded and contributed to the whole personas and scenarios page
   * Personas and scenarios
   * Competitive analysis and heuristic evaluation
+  * Wireframes
   * Report
 * **[Tamanna Haider](https://usabilityengineering.github.io/ux-portfolio-tamannahaider/)** - 
   * Sketches and diagrams
   * Personas and scenorios
   * Competitive analysis and heuristic evaluation
+  * Wireframes
   * Report
 
 # User-Centered Design Artifacts
