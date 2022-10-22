@@ -1,3 +1,18 @@
 # Phase II: Refining interaction and designing wireframes
 
-!!!Add your report content here!!!
+By Karandeep Dhillon and Tamanna Haider for Team Fridge
+
+
+# Methods
+
+
+# Findings
+
+
+
+# Conclusions
+
+ 
+
+# Caveats
+  
