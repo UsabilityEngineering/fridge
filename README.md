@@ -42,8 +42,6 @@ Our project is called Fridge and it allows for users to track grocery items alon
 **Executive Summary**
 
 *  provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
 [Full phase II report](phaseII/)
