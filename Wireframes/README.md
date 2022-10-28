@@ -1,4 +1,4 @@
 # Wireframes
 
 add images here and give brief description
-![alt text](Login Page.png)
+![alt text](LoginPage.png)
