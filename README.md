@@ -41,8 +41,9 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 **Executive Summary**
 
-*  provide a summary that highlights...!!!
-* !!!as an executive would understand.!!!
+* From our cognitive walkthrough, 
+* From our informal user feedback, we found users want the application to be as **automatated and seamless as possible**. Users 
+* Findings suggest **medium to high fidelity** design 
 
 [Full phase II report](phaseII/)
 
