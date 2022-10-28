@@ -11,7 +11,7 @@ give brief description
 ![alt text](Homepage.jpg)
 
 give brief description
-![alt text](fooditemtable.jpg)
+![alt text](fooditemstable.jpg)
 
 give brief description
 ![alt text](additempage.jpg)
