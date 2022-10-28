@@ -11,6 +11,7 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 # Findings
  **Cognitive Walkthrough:**
 *  Add price for each food item to help budget and keep track of expenses
+*  Add a total for the prices
 *  Indicate in "My Recipes" results the recipes shown are from what food items are currently in stock
 *  A way to add recipes 
 *  A way to indicate what ingredients are missing from recipes from the home page that shows randomly recipes
@@ -22,7 +23,7 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 *  Overall make the product automated and seemless as possible to make it less of a chore for users to keep track of all the food items
 
 # Conclusions
-
+From our methods and findings, we can conclude that our product needs have medium fidelity for our design. Our cognitive walkthrough results indicate that for the most evaluators knew what they were doing and if they were making progress toward their goal. However, some scenarios were more easily accomplished and we  We noticed that our findings recommend to make our application as seemless and as automated as possible. This would significantly reduce the amount of user effort is required to keep track of their food items. 
  
 
 # Caveats
