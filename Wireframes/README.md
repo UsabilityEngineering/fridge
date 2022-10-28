@@ -1,7 +1,7 @@
 # Wireframes
 
 give brief description
-![alt text](LoginPage.png)
+![alt text](LoginPage.jpg)
 
 
 give brief description
