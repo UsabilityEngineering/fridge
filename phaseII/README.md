@@ -15,6 +15,9 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 *  Indicate in "My Recipes" results the recipes shown are from what food items are currently in stock
 *  A way to add recipes 
 *  A way to indicate what ingredients are missing from recipes from the home page that shows randomly recipes
+*  need a medium to high fidelity design
+*  improve on the automatation
+*  give more user feedback
 
  **Informal Feedback:**
 *  Have the process of adding food items be seemless as possible
@@ -23,7 +26,7 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 *  Overall make the product automated and seemless as possible to make it less of a chore for users to keep track of all the food items
 
 # Conclusions
-From our methods and findings, we can conclude that our product needs have medium fidelity for our design. Our cognitive walkthrough results indicate that for the most part our evaluators knew what they were doing and if they were making progress toward their goal. However, some scenarios were more easily accomplished than others. This lead to us noticing that we need more wireframes to allow for all the functionality we intend to have with our final product. We noticed that our findings recommend to make our application as seemless and as automated as possible. This would significantly reduce the amount of user effort is required to keep track of their food items. 
+From our methods and findings, we can conclude that our product needs have medium fidelity for our design. Our cognitive walkthrough results indicate that for the most part, our evaluators knew what they were doing and if they were making progress toward their goal. However, some scenarios were more easily accomplished than others. This lead us to noticing that we need more wireframes to allow for all the functionality we intend to have with our final product. We noticed that our findings recommend making our application seamless and as automated as possible. This would significantly reduce the amount of user effort required to keep track of their food items. 
  
 
 # Caveats
