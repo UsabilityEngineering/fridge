@@ -4,8 +4,13 @@ The first page when visiting our webpage is the login page. Users can login if t
 ![alt text](LoginPage.jpg)
 
 
+
+
 Once a user clicks "Sign Up," they are prompted to this screen where they will input some user information and create an account.
 ![alt text](SignUp.jpg)
+
+
+
 
 Once a user has logged in, this is the homepage that prompted right after. The homepage has two rows where one row is the new recipes inputted either by the user or the database and the other row is recipes are that are popular that week from our selection. User can click on the recipe and be prompted to another page that shows all the details for that recipe. User can also click the add button to add it to the my recipes page. (Both pages are shown later down).
 ![alt text](Homepage.jpg)
