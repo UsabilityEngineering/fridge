@@ -16,9 +16,10 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 *  another point
 
  **Informal Feedback:**
-*  another point
-*  another point
-*  another point
+*  Have the process of adding food items be seemless as possible
+*  Implement a way to add/substract quantities of each food item
+*  Be notified of what food items are expiring soon
+*  Overall make the product automated and seemless as possible to make it less of a chore for users to keep track of all the food items
 
 # Conclusions
 
