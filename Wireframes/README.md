@@ -1,4 +1,8 @@
 # Wireframes
 
-add images here and give brief description
+give brief description
 ![alt text](LoginPage.png)
+
+
+give brief description
+![alt text](SignUp.png)
