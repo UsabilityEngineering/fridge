@@ -33,7 +33,7 @@ This is the "my recipes" page that holds the user's saved recipes. The user can 
 This is the detailed recipe page. This is the page that appears when a recipe is clicked either on the homepage or on the "my recipes" page. The checkbox by the item tells you which item the recipe uses from the checked items you want to use. In this example, butter has the checkbox checked on both pages.
 ![alt text](RecipeFound.jpg)
 
-This is the add recipe page that is prompted when the user clicks the "add a recipe" button in my recipes page. User inputs all the information needed and clicks the "add recipe" button. After that, it can be seen in the my recipes page as shown in the second image below. 
+This is the add recipe page that is prompted when the user clicks the "add a recipe" button on my recipes page. The user inputs all the information needed and clicks the "add recipe" button. After that, it can be seen on the "my recipes" page as shown in the second image below. 
 ![alt text](addrecipe.jpg)
 ![alt text](Recipes2.jpg)
 
