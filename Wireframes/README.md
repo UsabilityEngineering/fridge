@@ -1,13 +1,13 @@
 # Wireframes
 
-give brief description
+The first page when visiting our webpage is the login page. Users can login if they have already made an account, click on "Sign Up" to create an account, or click "Forgot Password" to recover their password. 
 ![alt text](LoginPage.jpg)
 
 
-give brief description
+Once a user clicks "Sign Up," they are prompted to this screen where they will input some user information and create an account.
 ![alt text](SignUp.jpg)
 
-give brief description
+Once a user has logged in, this is the homepage that prompted right after. Homepage has two rows where one row is the new recipes inputted either by the user or the database and the other row is recipes are that are popular that week. User can click on the recipe and be prompted to another page that shows all the details for that recipe. User can also click the add button to add it to the my recipes page. (Both pages are shown later down).
 ![alt text](Homepage.jpg)
 
 give brief description
