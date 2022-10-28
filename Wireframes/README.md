@@ -5,4 +5,4 @@ give brief description
 
 
 give brief description
-![alt text](SignUp.png)
+![alt text](SignUp.jpg)
