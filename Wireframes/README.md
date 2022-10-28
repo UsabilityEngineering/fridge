@@ -12,6 +12,11 @@ Once a user clicks "Sign Up," they are prompted to this screen where they will i
 
 
 
+When forgot password is clicked, user enters the email associated with their account and the rest is handled in the user's email.
+![alt text](Forgotpassword.jpg)
+![alt text](Forgotpassword2.jpg)
+
+
 Once a user has logged in, this is the homepage that prompted right after. The homepage has two rows where one row is the new recipes inputted either by the user or the database and the other row is recipes are that are popular that week from our selection. User can click on the recipe and be prompted to another page that shows all the details for that recipe. User can also click the add button to add it to the my recipes page. (Both pages are shown later down).
 ![alt text](Homepage.jpg)
 
