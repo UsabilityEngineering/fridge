@@ -25,6 +25,9 @@ give brief description
 
 give brief description
 ![alt text](addrecipe.jpg)
+![alt text](Recipes2.jpg)
+
+
 
 give brief description
 ![alt text](aboutuspage.jpg)
