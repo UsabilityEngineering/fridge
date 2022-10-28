@@ -26,4 +26,5 @@ We also received **Informal Feedback** when our software engineers demoed the cu
  
 
 # Caveats
+For our cognitive walkthrough, our testers/user were given a persona and a scenario by which they conducted the cognitive walkthrough. This has it's limitations because each individual would take on the persona and scenario differently with varying results. Our wireframes were also not interactive so people doing the cognitive walkthrough were a little clueless on the path they were going and if they were making any progress toward their goal. 
   
