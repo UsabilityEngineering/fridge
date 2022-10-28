@@ -10,10 +10,10 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 
 # Findings
  **Cognitive Walkthrough:**
-*  point 1
-*  another point
-*  another point
-*  another point
+*  Add price for each food item to help budget and keep track of expenses
+*  Indicate in "My Recipes" results the recipes shown are from what food items are currently in stock
+*  A way to add recipes 
+*  A way to indicate what ingredients are missing from recipes from the home page that shows randomly recipes
 
  **Informal Feedback:**
 *  Have the process of adding food items be seemless as possible
