@@ -41,9 +41,9 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 **Executive Summary**
 
-* From our cognitive walkthrough, we discovered that our findings suggest  **medium to high fidelity** design with **improvements on user feedback**
-* From our informal user feedback, we found users want the application to be as **automatated and seamless as possible**. Users want a way to **add/subtract quantities of each food item** and be **notified of** grocery items that are **expiring soon or expired foods**.  
-* 
+* From our cognitive walkthrough, we discovered that our findings suggest  **medium to high fidelity** design with **improvements in user feedback**. 
+* From our informal user feedback, we found users want the application to be as **automated and seamless as possible**. Users want a way to **add/subtract quantities of each food item** and be **notified of** grocery items that are **expiring soon or expired foods**.  
+* Our findings **suggest adanvcements to our wireframes** by making changes to existing boards and adding more to **have more accurate prototypes** to our final product. Some scenarios were more easily accomplished than others. 
 
 [Full phase II report](phaseII/)
 
