@@ -25,7 +25,7 @@ This page allows user to add food items after submitting the necessary informati
 This is the my recipes page that holds the users saved recipes. The user can click on a recipe and will be prompted to another page with more details about that recipe. This is also the page where the recipes added from the homepage will showup. There is also an add recipe button that prompts the user to add a recipe. 
 ![alt text](Recipes.jpg)
 
-This is the detailed recipe page. This is the page that appears when a recipe is clicked either on the homepage or in the my recipes page. 
+This is the detailed recipe page. This is the page that appears when a recipe is clicked either on the homepage or in the my recipes page. The checkbox by the item butter tells you which item the recipe uses from the checked items you want to use.
 ![alt text](RecipeFound.jpg)
 
 give brief description
