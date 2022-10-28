@@ -23,7 +23,7 @@ We also received **Informal Feedback** when our software engineers demoed the cu
 *  Overall make the product automated and seemless as possible to make it less of a chore for users to keep track of all the food items
 
 # Conclusions
-From our methods and findings, we can conclude that our product needs have medium fidelity for our design. Our cognitive walkthrough results indicate that for the most evaluators knew what they were doing and if they were making progress toward their goal. However, some scenarios were more easily accomplished and we  We noticed that our findings recommend to make our application as seemless and as automated as possible. This would significantly reduce the amount of user effort is required to keep track of their food items. 
+From our methods and findings, we can conclude that our product needs have medium fidelity for our design. Our cognitive walkthrough results indicate that for the most part our evaluators knew what they were doing and if they were making progress toward their goal. However, some scenarios were more easily accomplished than others. This lead to us noticing that we need more wireframes to allow for all the functionality we intend to have with our final product. We noticed that our findings recommend to make our application as seemless and as automated as possible. This would significantly reduce the amount of user effort is required to keep track of their food items. 
  
 
 # Caveats
