@@ -12,3 +12,18 @@ Sign-up Page
 
 Add Item Page
 ![alt text](additem.png)
+
+Update Item Page
+![alt text](updateitem.png)
+
+Delete Item Page
+![alt text](deleteitem.png)
+
+Search Item page
+![alt text](searchitem.png)
+
+Change password Page
+![alt text](changepassword.png)
+
+ My profile/update profile page
+ ![alt text](myprofilepage.png)
