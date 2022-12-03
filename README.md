@@ -12,19 +12,23 @@ Our project is called Fridge and it allows for users to track grocery items alon
   * Competitive analysis and heuristic evaluation
   * Wireframes
   * Report
+  * Prototypes
+  * User testing and data gathering
 * **[Tamanna Haider](https://usabilityengineering.github.io/ux-portfolio-tamannahaider/)** - 
   * Sketches and diagrams
   * Personas and scenorios
   * Competitive analysis and heuristic evaluation
   * Wireframes
   * Report
+  * Prototypes
+  * User testing and data gathering
 
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](Wireframes/)
-* [Prototype](prototype/) - Coming soon (phase III)!
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
