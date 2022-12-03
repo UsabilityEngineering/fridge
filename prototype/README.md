@@ -7,7 +7,6 @@ Sign-up Page
 ![alt text](signuppage.png)
 
 Home Page
-Sign-up Page
 ![alt text](homepage.png)
 
 Add Item Page
