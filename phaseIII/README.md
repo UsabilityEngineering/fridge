@@ -28,12 +28,20 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
  **Task 1** 
  * added ingredient?
      * All 5 participants were able to complete. However, all 5 participants could not find the "add item" button immediately and it took them all greater than 20 seconds to locate the "add item" button at which they had an "aha" moment. 
- * deleted ingredient?
+ * deleted correct expired ingredient?
      * 4 out of the 5 participants were able to complete this task seemlessly. The one participant who did not correctly complete the task found that decreasing the quantity to 0 would result in deleting the task but the item was not removed the item. 
  * 1-5 scale where 1 is very difficult and 5 is very easy
-     * 2 out of 5 participants reported 5 with the other three reporting a 4. The ones that reported the score of four all concluding it was because they found the add item button to be difficult to locate.
+     * 2 out of 5 participants reported 5 with the other three reporting a 4. The ones that reported the score of four all concluded it was because they found the add item button to be difficult to locate.
    
 **Task 2** 
+* changed ingredient?
+  * All 5 participants were able to complete this task.
+* deleted correct soon-to-expire ingredient?
+  * All 5 participants were able to complete this task.
+* 1-5 scale where 1 is very difficult and 5 is very easy
+  * 4 out of the 5 participants gave this task a score 5 with one participant giving it a 4.
+
+**Wrap up**
 
 
   
