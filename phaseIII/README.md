@@ -42,8 +42,16 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
   * 4 out of the 5 participants gave this task a score 5 with one participant giving it a 4.
 
 **Wrap up**
-
-
+* Were there any moments where the website gave you troubles, and you could not figure out what to do?
+   * One participant reported, "Not really, just the "valid from" and "valid to" on the form for adding an item were not clear. Also the photo shouldn't be required or there should be a default album you can choose from."
+   * Another participant answered, "No, easy to understand, learnable, memorable"
+   * Another participant was a little confused on whether the food item represented food items currently in their fride or if it was a shopping list for when they go shopping
+   * One participant said "no, nothing" and another said "couldn't find add item button"
+* Were there any features of the website that stood out to you or that you particularly liked?
+   * All participants said the status of each food item and the layout and design of the webpage was what they liked. Along with these, the notifications icon was also liked by one participant.
+* Are there any additional features you wished the website had?
+* Do you have any other thoughts or comments?
+  * 3 out of the 5 participants said "no" with one participant saying "you guys did a great job" and another participant saying "not sure why the notifications are jumping."
   
 # Conclusions
 
