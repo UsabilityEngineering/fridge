@@ -12,7 +12,7 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
   * All 5 of our participants reported that they do not use any website or app designed to keep track of their ingredients. 
  
 * Do you manually keep track of any food waste or ingredients?
-  * 3 out 5 our partici
+  * 3 out 5 our participants reported that do manually keep track of their ingredients. When asked how they go about manually keeping track, they revealed that they used to the Notes app or used pen and paper to keep track when they checked their 
 
 # Conclusions
 
