@@ -59,4 +59,4 @@ From our user tests and findings, we can conclude that our project/prototypes re
  
 
 # Caveats
- 
+ Our main caveat was that all participants in the user testing were from the age range and had a similar education and career path. We also only had 5 participants which is the minimum amount a user test should have. If we were to do this again with more accurate results, we would want to have a large group of participants from different age groups, occupations, and lifestyles. Another caveat was that we used our software project as the prototype and in our project we had things on the application that were not completely implemented yet. This led to our users being a little confused because they had come into the user test assuming that everything in the application was functioning and implemented completely. 
