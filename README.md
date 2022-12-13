@@ -55,9 +55,9 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* From our user testing, we discovered **none** of our participants **are keeping track of their groceries digitally** and that they expect it to be easier to do so digitally. They also seem to want to **have an app for their phone** along with the web application. 
+* We also discovered that we need to **redesign the "add item" button to be bigger and more noticeable** to the user
+* **All tasks** from our participants were reported a **score of 4 or 5**. 
+* 
 
 [Full phase III report](phaseIII/)
