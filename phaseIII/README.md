@@ -12,12 +12,18 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
   * All 5 of our participants reported that they do not use any website or app designed to keep track of their ingredients. 
  
 * Do you manually keep track of any food waste or ingredients?
-  * 3 out of 5 our participants reported that they do manually keep track of their ingredients. When asked how they go about manually keeping track, they revealed that they used to the Notes app or used pen and paper to keep track when they checked their fridge.
+  * 3 out of the 5 our participants reported that they do manually keep track of their ingredients. When asked how they go about manually keeping track, they revealed that they used to the Notes app or used pen and paper to keep track when they checked their fridge.
   * When ask if they would find a digial way of keeping track of food items, they said yes with one participant saying that if there was an app for their phone then yes. 
 * How often do you go grocery shopping?
   * 4 out of 5 participants reported once or twice a week. One participant concluded that someone else shops for them. 
 * On average, how much do you spend each trip to the grocery store?
-
+  * 2 out of the 5 participants reported they spent around 30 dollars on each trip. One participant reported "it varies." One participant reported around 130 dollars and another participant reported 150 dollars. 
+* How many people live in your household/are involved in cooking and groceries?
+  * 4 out of the 5 participants reported 1 as their household number with one participant reporting 4 as their household number.
+* How often do you eat out?
+  * 
+* Which of the statements is the most true for you?
+  
 # Conclusions
 
  
