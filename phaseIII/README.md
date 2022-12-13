@@ -22,7 +22,14 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
   * 4 out of the 5 participants reported 1 as their household number with one participant reporting 4 as their household number.
 * How often do you eat out?
   * 
-* Which of the statements is the most true for you?
+* Which of the statements is the most true for you? 1. I want to minimize the amount of food that goes bad/gets thrown away 2. I want to budget groceries better 3. I want to find ideas on what to cook based on what I have in my fridge.
+  * 4 out of the 5 reported "I want to minimize the amount of food that goes bad/gets thrown away" to be the statement that is most true to them with one participant answering "I want to find ideas on what to cook based on what I have in my fridge."
+ 
+ **Task 1** 
+ * added ingredient?
+     * All 5 participants were able to complete. However, all 5 participants could not find the "add item" button immediately and it took them all greater than 20 seconds to locate the "add item" button at which they had an "aha" moment. 
+ * deleted ingredient?
+     
   
 # Conclusions
 
