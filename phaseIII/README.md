@@ -21,7 +21,7 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
 * How many people live in your household/are involved in cooking and groceries?
   * 4 out of the 5 participants reported 1 as their household number with one participant reporting 4 as their household number.
 * How often do you eat out?
-  * 
+  * One participant reported 2 to 3 times a week and another one reported 4 times a week. One participant reported 2 times a month and another participant reported "more than I would like." One participant reported once a week. All our participants reported very different answers. 
 * Which of the statements is the most true for you? 1. I want to minimize the amount of food that goes bad/gets thrown away 2. I want to budget groceries better 3. I want to find ideas on what to cook based on what I have in my fridge.
   * 4 out of the 5 reported "I want to minimize the amount of food that goes bad/gets thrown away" to be the statement that is most true to them with one participant answering "I want to find ideas on what to cook based on what I have in my fridge."
  
