@@ -50,6 +50,7 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
 * Were there any features of the website that stood out to you or that you particularly liked?
    * All participants said the status of each food item and the layout and design of the webpage was what they liked. Along with these, the notifications icon was also liked by one participant.
 * Are there any additional features you wished the website had?
+  * 2 out the 5 participants simply replied "none." One participant said "make pictures option" and another participant said "autoupdate expiration would be nice." One participant said they would like recommened recipes from the food items. 
 * Do you have any other thoughts or comments?
   * 3 out of the 5 participants said "no" with one participant saying "you guys did a great job" and another participant saying "not sure why the notifications are jumping."
   
