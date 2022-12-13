@@ -9,10 +9,10 @@ We used our prototypes to conduct **User testing**. User testing allows us to ob
 # Findings
 **Background questions**
 * Do you use any websites or apps designed to keep track of food waste or ingredients? 
-      * All 5 of our participants reported that they do not use any website or app designed to keep track of their ingredients. 
+  * All 5 of our participants reported that they do not use any website or app designed to keep track of their ingredients. 
  
 * Do you manually keep track of any food waste or ingredients?
-       * 3 out 5 our partici
+  * 3 out 5 our partici
 
 # Conclusions
 
