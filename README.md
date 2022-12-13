@@ -57,8 +57,8 @@ Our project is called Fridge and it allows for users to track grocery items alon
 
 * From our user testing, we discovered **none** of our participants **are keeping track of their groceries digitally** and that they expect it to be easier to do so digitally. They also seem to want to **have an app for their phone** along with the web application. 
 * We also discovered that we need to **redesign the "add item" button to be bigger and more noticeable** to the user
-* **All tasks** from our participants were reported a **score of 4 or 5** indicating that our project is useable, easy to understand, and useful. 
-* Participants described that they **liked the design and layout** of the web application and the **status of each food item** such as good,expired, and warning. They also **liked the notifications** feature as well.
+* **All tasks** from our participants have reported a **score of 4 or 5** indicating that our project is useable, easy to understand, and useful. 
+* Participants described that they **liked the design and layout** of the web application and the **status of each food item** such as good, expired, and warning. They **liked the notifications** feature as well.
 * All participants also referred not to add an image when adding a food item to the table, they wanted **adding an image** to each food item **to be optional** and in the current state, it is required. 
 * Overall, **participants were very pleased** with our web application and **would consider using it.** To get more accurate results, user tests would need to have a larger group of more diverse individuals. 
 
